@@ -1,0 +1,18 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+nav{
+    background-color: green;
+    
+}
+a{
+    display:inline-block;
+}
+span{
+    background-color: aqua;
+}
+#special{
+    background-color: green;
+    color:black;
+}
